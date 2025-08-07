@@ -1,4 +1,4 @@
 {
   "version": "0.01",
-  "link": "https"
+  "link": "https://raw.githubusercontent.com/PaidBtLoader/PaidBtLoader/main/libbgmi.so"
 }
